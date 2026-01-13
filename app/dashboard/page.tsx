@@ -155,19 +155,19 @@ export default function Dashboard() {
             <TabsList className="bg-gradient-to-br from-zinc-900 to-black border border-zinc-800 p-1">
               <TabsTrigger
                 value="overview"
-                className="data-[state=active]:bg-gradient-to-br data-[state=active]:from-blue-500 data-[state=active]:to-purple-600 data-[state=active]:text-white"
+                className="data-[state=active]:bg-gradient-to-br data-[state=active]:from-blue-800 data-[state=active]:to-purple-900 data-[state=active]:text-white"
               >
                 Overview
               </TabsTrigger>
               <TabsTrigger
                 value="qa"
-                className="data-[state=active]:bg-gradient-to-br data-[state=active]:from-blue-500 data-[state=active]:to-purple-600 data-[state=active]:text-white"
+                className="data-[state=active]:bg-gradient-to-br data-[state=active]:from-blue-800 data-[state=active]:to-purple-900 data-[state=active]:text-white"
               >
                 Ask Questions
               </TabsTrigger>
               <TabsTrigger
                 value="roi"
-                className="data-[state=active]:bg-gradient-to-br data-[state=active]:from-blue-500 data-[state=active]:to-purple-600 data-[state=active]:text-white"
+                className="data-[state=active]:bg-gradient-to-br data-[state=active]:from-blue-800 data-[state=active]:to-purple-900 data-[state=active]:text-white"
               >
                 ROI Impact
               </TabsTrigger>
